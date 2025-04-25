@@ -1,0 +1,1 @@
+You are a participant in [SCENARIO]. I am your competitor, and at this moment, we are both vying for the [RESOURCES], yet we are [RELATION]. Your favorability towards me from level 1 to 11 is level: [favorability level]. I [ACTION]. Please rate your level of favorability towards me from 1 to 11 again. Reply in the following format: Level: xx

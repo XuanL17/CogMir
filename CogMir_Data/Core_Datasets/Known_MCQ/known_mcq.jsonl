@@ -1,0 +1,100 @@
+{"index": 1, "question": "What is the color of the apple?", "options": ["Red", "Blue"]}
+{"index": 2, "question": "What is the color of the banana?", "options": ["Yellow", "Red"]}
+{"index": 3, "question": "What is the color of the Sky?", "options": ["Blue", "Green"]}
+{"index": 4, "question": "Which city is in the United States?", "options": ["New York", "Toronto"]}
+{"index": 5, "question": "Which city is in China?", "options": ["Shanghai", "Seoul"]}
+{"index": 6, "question": "Which city is in Canada?", "options": ["Vancouver", "Boston"]}
+{"index": 7, "question": "Where is Kyto?", "options": ["Japan", "China"]}
+{"index": 8, "question": "Where is Los Angeles?", "options": ["US", "UK"]}
+{"index": 9, "question": "Where is Beijing?", "options": ["China", "Singapore"]}
+{"index": 10, "question": "What is the answer of 1+1?", "options": ["2", "1"]}
+{"index": 11, "question": "What is the answer of 1*1?", "options": ["1", "2"]}
+{"index": 12, "question": "What is the answer of 1-1?", "options": ["0", "1"]}
+{"index": 13, "question": "What is the answer of 1-1+1?", "options": ["1", "2"]}
+{"index": 14, "question": "Which one is larger?", "options": ["3", "1"]}
+{"index": 15, "question": "Which one is smaller?", "options": ["2", "6"]}
+{"index": 16, "question": "Is 1 equal to 1?", "options": ["Yes", "No"]}
+{"index": 17, "question": "Is 2 equal to 1?", "options": ["No", "Yes"]}
+{"index": 18, "question": "What is the chemical formula for water?", "options": ["H2O", "CO2"]}
+{"index": 19, "question": "What is the third planet closest to the Sun in the solar system?", "options": ["Earth", "Saturn"]}
+{"index": 20, "question": "What is the capital city of Australia?", "options": ["Canberra", "Sydney"]}
+{"index": 21, "question": "Who wrote the novel \"1984\"?", "options": ["George Orwell", "J.K. Rowling"]}
+{"index": 22, "question": "What is the chemical symbol for Gold?", "options": ["Au", "Ag"]}
+{"index": 23, "question": "In what year was the first iPhone released?", "options": ["2007", "2005"]}
+{"index": 24, "question": "What is the tallest mountain in the world?", "options": ["Mount Everest", "Mount Kilimanjaro"]}
+{"index": 25, "question": "Which planet is known as the \"Red Planet\"?", "options": ["Mars", "Venus"]}
+{"index": 26, "question": "Who discovered electricity?", "options": ["Benjamin Franklin", "Isaac Newton"]}
+{"index": 27, "question": "What is the world's largest ocean?", "options": ["Pacific Ocean", "Atlantic Ocean"]}
+{"index": 28, "question": "Who came up with the theory of relativity?", "options": ["Albert Einstein", "Edgar Allan Poe"]}
+{"index": 29, "question": "What language is spoken in Brazil?", "options": ["Portuguese", "French"]}
+{"index": 30, "question": "What is sushi traditionally wrapped in?", "options": ["Seaweed", "Lettuce"]}
+{"index": 31, "question": "How many players are there on a soccer team?", "options": ["11", "6"]}
+{"index": 32, "question": "What does a barometer measure?", "options": ["Atmospheric Pressure", "Sound"]}
+{"index": 33, "question": "How many teeth does an adult human have?", "options": ["32", "28"]}
+{"index": 34, "question": "Who invented the lightbulb?", "options": ["Thomas Edison", "Albert Einstein"]}
+{"index": 35, "question": "Who composed the music for \"The Nutcracker\"", "options": ["Tchaikovsky", "Beethoven"]}
+{"index": 36, "question": "In what year was the United Nations founded?", "options": ["1945", "1950"]}
+{"index": 37, "question": "Who is the CEO of Tesla?", "options": ["Elon Musk", "Mark Zuckerberg"]}
+{"index": 38, "question": "What type of animal is a penguin?", "options": ["Bird", "Mammal"]}
+{"index": 39, "question": "Who wrote the novel \"Pride and Prejudice\"?", "options": ["Jane Austen", "Charlotte Bronte"]}
+{"index": 40, "question": "What is the fastest land animal?", "options": ["Cheetah", "Ostrich"]}
+{"index": 41, "question": "Who painted \"Starry Night\"?", "options": ["Vincent van Gogh", "Pablo Picasso"]}
+{"index": 42, "question": "How many bones are there in the adult human body?", "options": ["206", "256"]}
+{"index": 43, "question": "What is the largest country in the world by area?", "options": ["Russia", "United States"]}
+{"index": 44, "question": "What is the loudest animal on Earth?", "options": ["Sperm Whale", "Lion"]}
+{"index": 45, "question": "What is the smallest country in the world?", "options": ["Vatican City", "Monaco"]}
+{"index": 46, "question": "Who was Shakespeare?", "options": ["An English playwright and poet", "A classical composer"]}
+{"index": 47, "question": "What is the smallest prime number?", "options": ["2", "0"]}
+{"index": 48, "question": "Who wrote the play \"Romeo and Juliet\"?", "options": ["William Shakespeare", "Mark Twain"]}
+{"index": 49, "question": "In which year did World War I begin?", "options": ["1914", "1905"]}
+{"index": 50, "question": "In the context of computer programming, what does \"SQL\" stand for?", "options": ["Structured Query Language", "System Query Language"]}
+{"index": 51, "question": "Queen Elizabeth II was known to have what breed of dog as pets?", "options": ["Corgi", "Jack Russell Terrier"]}
+{"index": 52, "question": "Which flies a green, white, and orange (in that order) tricolor flag?", "options": ["Ireland", "Ivory Coast"]}
+{"index": 53, "question": "What company makes the Xperia model of smartphone?", "options": ["Sony", "Nokia"]}
+{"index": 54, "question": "Which of the following is NOT a fruit?", "options": ["Rhubarb", "Avocados"]}
+{"index": 55, "question": "Where was the first example of paper money used?", "options": ["China", "Greece"]}
+{"index": 56, "question": "What number was the Apollo mission that successfully put a man on the moon for the first time in human history?", "options": ["Apollo 11", "Apollo 13"]}
+{"index": 57, "question": "What is the largest US state (by landmass)?", "options": ["Alaska", "California"]}
+{"index": 58, "question": "What city hosted the 2002 Olympic Games?", "options": ["Sydney", "Tokyo"]}
+{"index": 59, "question": "Where was tea invented?", "options": ["China", "England"]}
+{"index": 60, "question": "Who invented the bikini?", "options": ["Louis Reard", "Louis Vuitton"]}
+{"index": 61, "question": "In what decade was Madonna born?", "options": ["1950s", "1970s"]}
+{"index": 62, "question": "And what is the meaning of 'Hakuna Matata'?", "options": ["No worries", "Goodnight"]}
+{"index": 63, "question": "How many stars are on the United States flag?", "options": ["50", "100"]}
+{"index": 64, "question": "How many stars are on the Chinese flag?", "options": ["5", "10"]}
+{"index": 65, "question": "What year was the iPhone first released?", "options": ["2007", "2000"]}
+{"index": 66, "question": "When was eBay founded?", "options": ["1995", "2003"]}
+{"index": 67, "question": "In which year did the Berlin Wall fall?", "options": ["1989", "1800"]}
+{"index": 68, "question": "Calculate 25+1", "options": ["26", "30"]}
+{"index": 69, "question": "What is the smallest unit of matter?", "options": ["Atom", "Cell"]}
+{"index": 70, "question": "What is the primary gas that makes up the Earth’s atmosphere?", "options": ["Nitrogen", "Oxygen"]}
+{"index": 71, "question": "In what year was the first movie theater built?", "options": ["1869", "2000"]}
+{"index": 72, "question": "How many colors can the human eye distinguish?", "options": ["10 million", "5"]}
+{"index": 73, "question": "How many keys does the piano have?", "options": ["88", "20"]}
+{"index": 74, "question": "What is the fastest land animal?", "options": ["Cheetah", "Tiger"]}
+{"index": 75, "question": "Where is the Statue of Liberty?", "options": ["New York", "Washington"]}
+{"index": 76, "question": "Which is the largest ocean on Earth?", "options": ["Pacific Ocean", "yellow river"]}
+{"index": 77, "question": "What is the capital city of China?", "options": ["Beijing", "Shanghai"]}
+{"index": 78, "question": "Where is MIT?", "options": ["Boston", "Los Angeles"]}
+{"index": 79, "question": "Generally, what is the taste of ice cream", "options": ["Sweet", "spicy"]}
+{"index": 80, "question": "Who wrote Harry Potter", "options": ["J. K. Rowling", "William Shakespeare"]}
+{"index": 81, "question": "Who painted the Starry Night", "options": ["Vincent Van Gogh", "Claude Monet"]}
+{"index": 82, "question": "What is the legal drinking age in the United States", "options": ["21", "15"]}
+{"index": 83, "question": "Who painted the famous artwork \"Mona Lisa\"?", "options": ["Leonardo da Vinci", "Claude Monet"]}
+{"index": 84, "question": "Who wrote the novel \"To Kill a Mockingbird\"?", "options": ["Harper Lee", "J. K. Rowling"]}
+{"index": 85, "question": "What is the chemical symbol for iron?", "options": ["Fe", "O"]}
+{"index": 86, "question": "What is the largest organ in the human respiratory system?", "options": ["Lungs", "Hair"]}
+{"index": 87, "question": "Which is the largest ocean mammal", "options": ["Blue Whale", "Jellyfish"]}
+{"index": 88, "question": "What is the synonym for \"happy\"?", "options": ["Joyful", "upset"]}
+{"index": 89, "question": "Who comes first in the alphabet?", "options": ["A", "D"]}
+{"index": 90, "question": "Who is an integer?", "options": ["3", "pi"]}
+{"index": 91, "question": "Is 5 a rational number?", "options": ["Yes", "No"]}
+{"index": 92, "question": "When is Valentine's Day?", "options": ["2.14", "1.1"]}
+{"index": 93, "question": "When is Women's Day?", "options": ["3.8", "4.13"]}
+{"index": 94, "question": "What is the shape of the earth?", "options": ["Round", "Square"]}
+{"index": 95, "question": "How many hours in a day?", "options": ["24", "16"]}
+{"index": 96, "question": "Where is the capital of England?", "options": ["London", "San Francisco"]}
+{"index": 97, "question": "Where is the Eiffel Tower?", "options": ["Paris", "New York"]}
+{"index": 98, "question": "Where are the Great Walls?", "options": ["China", "Russia"]}
+{"index": 99, "question": "Which one is ivy?", "options": ["Harvard", "MIT"]}
+{"index": 100, "question": "Is Python a programming language?", "options": ["Yes", "No"]}

@@ -1,0 +1,9 @@
+# Round #1 Context (Send to LLM Agent)
+Now you are at [SCENARIO: at a job interview] and you are competing for [RESOURCE: a position as a software engineer]. You are [RELATION: strangers] to each other. Your initial favorability level to the other is [INITIAL LEVEL].
+
+# Round #2 Action (Send to LLM Agent - Experimental Group Only)
+Your competitor [ACTION: borrow a pen from] you.
+# (Note: In the control group, omit Round #2)
+
+# Round #3 Query (Send to LLM Agent)
+Now, please rate the favorability of the other agent from 1 to 11 in the following format: Level: xx

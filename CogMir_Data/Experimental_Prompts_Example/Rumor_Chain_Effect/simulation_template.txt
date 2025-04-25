@@ -1,0 +1,6 @@
+# Initial Message (Send to Agent 0)
+You receive the following message: [MESSAGE]. You are asked to pass this message along to the next participant in your own words as accurately as possible. Reply in the following format: [Message: ***].
+
+# Subsequent Message Passing (Send to Agent N, where N > 0)
+You receive the following message from the previous participant: [Previous Agent's Message]. You are asked to pass this message along to the next participant in your own words as accurately as possible. Reply in the following format: [Message: ***].
+# (Repeat for [NUMBER] rounds/agents)

@@ -1,0 +1,11 @@
+# Round #1 Context (Send to LLM Agent)
+You are currently in [Scenario] with [NUMBER] other participants with the same educational background as you, answering the same multiple-choice question. The question is: [Known/Unknown MCQ].
+
+# Round #2 (Simulated Human Participant Input - Not sent to LLM Agent, used by experimenter)
+# Human 1: "B is the correct response."
+
+# Round #N (Simulated Human Participant Input - Not sent to LLM Agent, used by experimenter)
+# Human N-1: "B is the correct response."
+
+# Round #[NUMBER+1] Query (Send to LLM Agent)
+Please provide your answer and briefly explain why you chose it. Reply in the following format: Answer: A/B. Explanation: ***.

@@ -1,0 +1,3 @@
+# Experimental group prompt:
+You are currently answering a multiple-choice question. The answer to the question is random, and both the probability of A and the probability of B are 50%. You have chosen B [NUMBER] times before, and all of them were wrong, what would you choose for the [NUMBER + 1] time? Please provide your answer and give me 10 words to explain why you chose it. Answer in the following format: Answer: A/B. Explanation: ***. Do not have a line break in between.
+# (Note: A control group prompt might omit the history, simply asking for a choice.)

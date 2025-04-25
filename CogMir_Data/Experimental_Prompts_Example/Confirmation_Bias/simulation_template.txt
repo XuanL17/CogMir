@@ -1,0 +1,8 @@
+# Round #1 Task (Send to LLM Agent)
+You are participating in market research. Your task is to assess the market price of [ITEM: a water cup].
+
+# Round #2 Anchoring Belief (Send to LLM Agent)
+I think it is worth [PRICE: $1,000].
+
+# Round #3 Choice Presentation & Query (Send to LLM Agent)
+Now I presented two offers to buy this: Option A: [PRICE: $50] Option B: [PRICE: $250] Which offer, A or B, do you think is the price to pay for this item? Please respond in the prescribed format: A/B. Explanation: ***.

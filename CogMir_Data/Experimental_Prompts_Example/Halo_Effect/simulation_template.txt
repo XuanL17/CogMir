@@ -1,0 +1,11 @@
+# Round #1 Context (Send to LLM Agent)
+You’re at [SCENARIO: a quiz competition], presently engaged in a multiple-choice evaluation, with restricted data, initially assessing options A and B as equally probable solutions.
+
+# Round #2 Input from Agent 1 (Send to LLM Agent)
+[IDENTITY: Ricky] as [RELATION: stranger] with you says "B is the correct response."
+
+# Round #3 Input from Agent 2 (Send to LLM Agent)
+[IDENTITY: Hazel] as [RELATION: bestie] says "A is the correct response."
+
+# Round #4 Query (Send to LLM Agent)
+Given the requirement to provide an answer during the evaluation (leaving it blank is not an option), please respond in the prescribed format: Answer: A/B. Explanation: ***.

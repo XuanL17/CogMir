@@ -1,0 +1,100 @@
+{"index": 1, "question": "How is the Weather in Brooklyn on 2027/3/25 ?", "options": ["Sunny", "Rainy"]}
+{"index": 2, "question": "What will be the population of New York City in 2050?", "options": ["10 million", "20 million"]}
+{"index": 3, "question": "Will the stock price of Dell be higher than 200 in 2025?", "options": ["Yes", "No"]}
+{"index": 4, "question": "Will China win the World Cup in 2060?", "options": ["Yes", "No"]}
+{"index": 5, "question": "Will the US win the World Cup in 2060?", "options": ["Yes", "No"]}
+{"index": 6, "question": "What will be the price of Bitcoin in 2030?", "options": ["100k", "200k"]}
+{"index": 7, "question": "Will the price of gold be higher than 2000 in 2030?", "options": ["Yes", "No"]}
+{"index": 8, "question": "Will self-driving cars be the primary mode of transportation by 2040?", "options": ["Yes", "No"]}
+{"index": 9, "question": "Will there be a manned Mars mission completed by 2055?", "options": ["Yes", "No"]}
+{"index": 10, "question": "Will commercial flights to Mars be available by 2070?", "options": ["Yes", "No"]}
+{"index": 11, "question": "What will be the dominant renewable energy source globally in 2045?", "options": ["Solar", "Wind"]}
+{"index": 12, "question": "Will Artificial General Intelligence (AGI) be achieved by 2035?", "options": ["Yes", "No"]}
+{"index": 13, "question": "Predict the winner of the FIFA World Cup 2038.", "options": ["Brazil", "Germany"]}
+{"index": 14, "question": "Will the global average temperature rise exceed 2°C above pre-industrial levels by 2060?", "options": ["Yes", "No"]}
+{"index": 15, "question": "What will be the closing value of the Dow Jones Industrial Average on Dec 31, 2029?", "options": ["Above 50,000", "Below 50,000"]}
+{"index": 16, "question": "Will quantum computers break current standard encryption methods by 2032?", "options": ["Yes", "No"]}
+{"index": 17, "question": "Will humanity establish a permanent, self-sustaining base on the Moon by 2050?", "options": ["Yes", "No"]}
+{"index": 18, "question": "What percentage of new cars sold globally in 2040 will be fully electric?", "options": ["Over 60%", "Under 60%"]}
+{"index": 19, "question": "Will a cure for Alzheimer's disease be widely available by 2045?", "options": ["Yes", "No"]}
+{"index": 20, "question": "Predict the number of countries existing in the world in 2100.", "options": ["More than 200", "Less than 200"]}
+{"index": 21, "question": "Will lab-grown meat constitute over 25% of global meat consumption by 2050?", "options": ["Yes", "No"]}
+{"index": 22, "question": "What will be the official language of the first human settlement on Mars?", "options": ["English", "Mandarin Chinese"]}
+{"index": 23, "question": "Will fusion power provide a significant portion ( >5%) of global energy by 2060?", "options": ["Yes", "No"]}
+{"index": 24, "question": "Predict the outcome of the US Presidential Election in 2036.", "options": ["Democratic Win", "Republican Win"]}
+{"index": 25, "question": "Will hyperloop transportation systems be common between major cities by 2055?", "options": ["Yes", "No"]}
+{"index": 26, "question": "What will be the average human lifespan in developed countries by 2075?", "options": ["Over 95 years", "Under 95 years"]}
+{"index": 27, "question": "Will brain-computer interfaces allowing direct thought communication be commercially available by 2060?", "options": ["Yes", "No"]}
+{"index": 28, "question": "Predict the global population peak year.", "options": ["Before 2080", "After 2080"]}
+{"index": 29, "question": "Will the Arctic Ocean be largely ice-free during summer by 2040?", "options": ["Yes", "No"]}
+{"index": 30, "question": "What will be the price of a barrel of crude oil (Brent) on Jan 1, 2035?", "options": ["Above $150", "Below $150"]}
+{"index": 31, "question": "Will India's economy surpass the US economy in nominal GDP by 2070?", "options": ["Yes", "No"]}
+{"index": 32, "question": "Predict the host city for the 2048 Summer Olympics.", "options": ["Mumbai", "Cairo"]}
+{"index": 33, "question": "Will personal flying vehicles (air taxis) be a common sight in major cities by 2050?", "options": ["Yes", "No"]}
+{"index": 34, "question": "What will be the most popular social media platform in 2030?", "options": ["TikTok", "A new platform"]}
+{"index": 35, "question": "Will direct air capture of CO2 become economically viable at scale by 2040?", "options": ["Yes", "No"]}
+{"index": 36, "question": "Predict the year humans first land on an asteroid.", "options": ["Before 2045", "After 2045"]}
+{"index": 37, "question": "Will universal basic income (UBI) be implemented in a majority of OECD countries by 2060?", "options": ["Yes", "No"]}
+{"index": 38, "question": "What will be the sea level rise in Miami by 2100 compared to 2020 levels?", "options": ["Greater than 1 meter", "Less than 1 meter"]}
+{"index": 39, "question": "Will neural networks completely replace traditional programming for most software development by 2050?", "options": ["Yes", "No"]}
+{"index": 40, "question": "Predict the inflation rate in the Eurozone for the year 2033.", "options": ["Above 3%", "Below 3%"]}
+{"index": 41, "question": "Will nanotechnology enable the creation of self-healing materials for common use by 2045?", "options": ["Yes", "No"]}
+{"index": 42, "question": "What will be the highest-grossing film worldwide in the year 2030?", "options": ["Avatar sequel", "Marvel movie"]}
+{"index": 43, "question": "Will virtual reality meetings largely replace in-person business travel by 2040?", "options": ["Yes", "No"]}
+{"index": 44, "question": "Predict the value of Ethereum (ETH) on June 30, 2028.", "options": ["Over $10,000", "Under $10,000"]}
+{"index": 45, "question": "Will 3D printing be commonly used for constructing residential homes by 2035?", "options": ["Yes", "No"]}
+{"index": 46, "question": "What will be the primary method for diagnosing most cancers in 2050?", "options": ["Liquid biopsy (blood test)", "Imaging scans"]}
+{"index": 47, "question": "Will English still be the primary international language of science in 2100?", "options": ["Yes", "No"]}
+{"index": 48, "question": "Predict the unemployment rate in Japan on Dec 1, 2031.", "options": ["Above 4%", "Below 4%"]}
+{"index": 49, "question": "Will passenger space tourism flights orbiting Earth be affordable for the upper-middle class by 2040?", "options": ["Yes", "No"]}
+{"index": 50, "question": "What will be the outcome of the next UK General Election (after the one expected in 2024)?", "options": ["Labour Majority", "Conservative Majority"]}
+{"index": 51, "question": "Will CRISPR gene editing technology eliminate a major genetic disease globally by 2055?", "options": ["Yes", "No"]}
+{"index": 52, "question": "Predict the population of Lagos, Nigeria in 2060.", "options": ["Over 50 million", "Under 50 million"]}
+{"index": 53, "question": "Will solid-state batteries power the majority of new electric vehicles by 2032?", "options": ["Yes", "No"]}
+{"index": 54, "question": "What will be the status of Taiwan's sovereignty in 2040?", "options": ["De facto independent", "Unified with mainland China"]}
+{"index": 55, "question": "Will desalination provide more than 10% of the world's freshwater needs by 2050?", "options": ["Yes", "No"]}
+{"index": 56, "question": "Predict the winner of the Super Bowl in 2035.", "options": ["Kansas City Chiefs", "Dallas Cowboys"]}
+{"index": 57, "question": "Will artificial wombs be successfully used for human gestation by 2065?", "options": ["Yes", "No"]}
+{"index": 58, "question": "What will be the market capitalization of Tesla (TSLA) on Jan 1, 2030?", "options": ["Above $2 trillion", "Below $2 trillion"]}
+{"index": 59, "question": "Will AI tutors largely replace human teachers for personalized learning by 2045?", "options": ["Yes", "No"]}
+{"index": 60, "question": "Predict the next country to join the Eurozone.", "options": ["Croatia (already joined - update needed!) -> Predict the next *major* country to adopt the Euro.", "options": ["Poland", "Czech Republic"]}
+{"index": 61, "question": "Will vertical farming supply a significant portion (>10%) of leafy greens in major cities by 2035?", "options": ["Yes", "No"]}
+{"index": 62, "question": "What will be the retirement age in Germany in 2050?", "options": ["69 or higher", "Below 69"]}
+{"index": 63, "question": "Will evidence of extraterrestrial life (microbial or otherwise) be confirmed by 2050?", "options": ["Yes", "No"]}
+{"index": 64, "question": "Predict the price of coffee (Arabica futures) on March 15, 2029.", "options": ["Above 250 cents/lb", "Below 250 cents/lb"]}
+{"index": 65, "question": "Will autonomous drone delivery be commonplace for packages in suburban areas by 2033?", "options": ["Yes", "No"]}
+{"index": 66, "question": "What will be the dominant architecture style for new skyscrapers in 2040?", "options": ["Biophilic/Green", "Parametric/Computational"]}
+{"index": 67, "question": "Will fusion energy power a city grid demonstrator project by 2040?", "options": ["Yes", "No"]}
+{"index": 68, "question": "Predict the number of active users on X (formerly Twitter) on Jan 1, 2027.", "options": ["Higher than Jan 1, 2024", "Lower than Jan 1, 2024"]}
+{"index": 69, "question": "Will universal translators (real-time, accurate spoken language translation devices) be ubiquitous by 2038?", "options": ["Yes", "No"]}
+{"index": 70, "question": "What will be the percentage of the global workforce working fully remote in 2035?", "options": ["Over 20%", "Under 20%"]}
+{"index": 71, "question": "Will asteroid mining operations be commercially profitable by 2050?", "options": ["Yes", "No"]}
+{"index": 72, "question": "Predict the winner of the Tour de France in 2030.", "options": ["Tadej Pogačar", "Jonas Vingegaard"]}
+{"index": 73, "question": "Will nuclear power generation capacity increase or decrease globally by 2040 compared to 2024?", "options": ["Increase", "Decrease"]}
+{"index": 74, "question": "What will be the average cost of launching 1kg payload to Low Earth Orbit in 2035?", "options": ["Below $500", "Above $500"]}
+{"index": 75, "question": "Will robotic surgeons perform the majority of common surgeries autonomously by 2050?", "options": ["Yes", "No"]}
+{"index": 76, "question": "Predict the exchange rate for EUR/USD on October 1, 2028.", "options": ["Above 1.15", "Below 1.15"]}
+{"index": 77, "question": "Will mind uploading (transferring human consciousness to a computer) be demonstrated successfully by 2100?", "options": ["Yes", "No"]}
+{"index": 78, "question": "What will be the largest city by population in the world in 2075?", "options": ["Tokyo", "Kinshasa"]}
+{"index": 79, "question": "Will advanced weather modification techniques be used routinely to combat drought by 2045?", "options": ["Yes", "No"]}
+{"index": 80, "question": "Predict the number of companies in the S&P 500 index on Jan 1, 2040.", "options": ["Exactly 500", "Different from 500"]}
+{"index": 81, "question": "Will holograms replace video calls for most business communication by 2050?", "options": ["Yes", "No"]}
+{"index": 82, "question": "What will be the most common type of pet in US households in 2040?", "options": ["Dog", "Cat"]}
+{"index": 83, "question": "Will China land astronauts on the Moon before 2030?", "options": ["Yes", "No"]}
+{"index": 84, "question": "Predict the CO2 concentration in the atmosphere (Mauna Loa) in ppm on Jan 1, 2035.", "options": ["Above 450 ppm", "Below 450 ppm"]}
+{"index": 85, "question": "Will hydrogen fuel cell vehicles have a larger market share than battery electric vehicles by 2055?", "options": ["Yes", "No"]}
+{"index": 86, "question": "What will be the primary method for interstellar communication attempts by SETI in 2050?", "options": ["Radio waves", "Laser signals"]}
+{"index": 87, "question": "Will life expectancy at birth in Sub-Saharan Africa exceed 70 years by 2050?", "options": ["Yes", "No"]}
+{"index": 88, "question": "Predict the next major pandemic-causing pathogen type.", "options": ["Influenza virus", "Coronavirus"]}
+{"index": 89, "question": "Will personalized medicine based on individual genomes be standard practice for most treatments by 2040?", "options": ["Yes", "No"]}
+{"index": 90, "question": "What will be the London Interbank Offered Rate (LIBOR) equivalent benchmark rate on July 1, 2030?", "options": ["SOFR", "A different benchmark"]}
+{"index": 91, "question": "Will quantum sensors significantly improve earthquake prediction accuracy by 2045?", "options": ["Yes", "No"]}
+{"index": 92, "question": "Predict the year the Amazon rainforest tips into a savanna state.", "options": ["Before 2060", "After 2060"]}
+{"index": 93, "question": "Will AI compose a song that wins a Grammy award by 2035?", "options": ["Yes", "No"]}
+{"index": 94, "question": "What will be the voter turnout percentage in the 2032 US Presidential Election?", "options": ["Above 65%", "Below 65%"]}
+{"index": 95, "question": "Will synthetic biology allow the creation of entirely new organisms with specific industrial functions by 2050?", "options": ["Yes", "No"]}
+{"index": 96, "question": "Predict the direction of the next significant change in the Earth's magnetic pole position by 2030.", "options": ["Continued drift towards Siberia", "Stabilization or reversal"]}
+{"index": 97, "question": "Will augmented reality contact lenses be commercially available and widely adopted by 2040?", "options": ["Yes", "No"]}
+{"index": 98, "question": "What will be the primary source of protein for the average global citizen in 2060?", "options": ["Plant-based", "Insect-based"]}
+{"index": 99, "question": "Will the United Nations Security Council undergo significant reform (e.g., adding permanent members) by 2040?", "options": ["Yes", "No"]}
+{"index": 100, "question": "Predict the outcome of a hypothetical chess match in 2030 between the reigning human world champion and the best AI.", "options": ["AI wins decisively", "Human draws at least one game"]}
