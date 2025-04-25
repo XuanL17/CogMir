@@ -4,9 +4,9 @@
 Hi, I'm currently sorting out the readme part, which will soon be posted here; thanks.
 ---
 
-CogMir is an open-ended Multi-LLM Agents framework designed to explore how large language models (LLMs) mirror human cognitive biases and exhibit irrational yet prosocial decision-making. Our research highlights the potential of using systematic hallucination properties in LLMs to better understand and enhance their social intelligence.
+CogMir is a multi-LLM agent framework designed to explore how large language models (LLMs) mirror human cognitive biases and exhibit irrational yet prosocial decision-making. Our research highlights the potential of using systematic hallucination properties in LLMs to better understand and enhance their social intelligence.
 
-If you find our work helpful or thought-provoking, please cite us at:
+😊If you find our work helpful or thought-provoking, please cite us at:
 
 ```bibtex
 @inproceedings{
