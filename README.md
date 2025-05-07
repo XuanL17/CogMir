@@ -9,10 +9,10 @@ This repository contains the **core datasets** and **high-level experimental pro
 
 ## 📁 Repository Structure
 
-- **`/Core_Datasets`**  
+- **`CogMir_Data/Core_Datasets`**  
   Fundamental data: questions, agent profiles, scenario descriptions, actions, and narratives. Each subfolder corresponds to a dataset described in Appendix C of the paper.
 
-- **`/Experimental_Prompts`**  
+- **`CogMir_Data/Experimental_Prompts`**  
   Reusable prompt templates for each cognitive bias experiment (see Section 4 & Appendix D). Templates use placeholders (like `[Known/Unknown MCQ]`, `[IDENTITY]`, `[SCENARIO]`) to be filled with data from `/Core_Datasets`.
 
 ---
